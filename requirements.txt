@@ -1,5 +1,5 @@
 streamlit
 tensorflow-cpu
 numpy
-matplotlib>
-scikit-learn>
+matplotlib
+scikit-learn
